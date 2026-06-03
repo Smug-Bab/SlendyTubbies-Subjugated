@@ -94,8 +94,8 @@
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_persistence_operations/Structs/XrUnpersistSpatialEntityCompletionEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Enums/XrSpatialEntityTrackingStateEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_plane_tracking/Structs/XrSpatialComponentPlaneAlignmentListEXT.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/Core/XrViewStateFlags.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Structs/XrCreateSpatialDiscoverySnapshotCompletionEXT.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/Core/XrViewStateFlags.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_anchor/Structs/XrSpatialAnchorCreateInfoEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/Core/XrBaseInStructure.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Settings/PackageSettingsLocator.cs" />
@@ -146,15 +146,15 @@
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/CompositionLayers/XrRect2Di.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/Interactions/MicrosoftMotionControllerProfile.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/OpenXRSpaceSettings.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Structs/XrEventDataSpatialDiscoveryRecommendedEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Structs/Components/XrSpatialComponentParentListEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/Core/XrSwapchainCreateInfo.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Structs/XrEventDataSpatialDiscoveryRecommendedEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/input/HapticControl.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/Core/XrSpaceLocationFlags.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Structs/Components/XrSpatialComponentBounded2DListEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_marker_tracking/Structs/XrSpatialComponentMarkerListEXT.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/Interactions/DPadInteraction.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_entity/Structs/Components/XrSpatialMeshDataEXT.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/Interactions/DPadInteraction.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/Core/XrEventDataBaseHeader.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/CompositionLayers/OpenXRLayerProvider.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/AutomaticDynamicResolutionFeature.cs" />
@@ -197,8 +197,8 @@
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/OpenXRFeatureAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_persistence/Enums/XrSpatialPersistenceStateEXT.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_persistence/Structs/XrSpatialDiscoveryPersistenceUuidFilterEXT.cs" />
-    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/SpaceWarpFeature.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_marker_tracking/Structs/XrSpatialCapabilityConfigurationArucoMarkerEXT.cs" />
+    <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/Features/SpaceWarpFeature.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_VERSION_1_1/XrExtent3Df.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/OpenXRRestarter.cs" />
     <Compile Include="Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/NativeTypes/XR_EXT_spatial_persistence_operations/Structs/XrSpatialEntityPersistInfoEXT.cs" />
@@ -780,10 +780,6 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/TextMateSharp/TextMateSharpPlastic.Grammars.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
       <HintPath>Library/PackageCache/com.unity.collections@8e325515cd5a/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
@@ -808,24 +804,12 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/log4netPlastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="System.IO.Hashing">
       <HintPath>Library/PackageCache/com.unity.collections@8e325515cd5a/Unity.Collections.Tests/System.IO.Hashing/System.IO.Hashing.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/unityplastic.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Cecil">

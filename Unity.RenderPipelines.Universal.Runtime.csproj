@@ -105,8 +105,8 @@
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/RendererFeatures/ScreenSpaceAmbientOcclusion.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/History/TaaHistory.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/FrameData/UniversalPostProcessingData.cs" />
-    <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Overrides/Bloom.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/FrameData/UniversalShadowData.cs" />
+    <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Overrides/Bloom.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Debug/DebugDisplaySettingsRendering.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/SupportedOnRenderer.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/UniversalRenderer.cs" />
@@ -133,8 +133,8 @@
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/TemporalAA.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Passes/PostProcess/UberPostProcessPass.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/VFXGraph/Utility/PropertyBinders/URPCameraBinder.cs" />
-    <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/RenderPipelineResources/UniversalRenderPipelineEditorMaterials.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Decal/Entities/DecalUpdateCachedSystem.cs" />
+    <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/RenderPipelineResources/UniversalRenderPipelineEditorMaterials.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Overrides/Vignette.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/RendererFeatures/OnTilePostProcessFeature.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/FrameData/Universal2DResourceData.cs" />
@@ -186,8 +186,8 @@
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Passes/DrawObjectsPass.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Overrides/ColorCurves.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/UniversalRendererRenderGraph.cs" />
-    <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/UniversalAdditionalCameraData.deprecated.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/RenderPipelineResources/UniversalRenderPipelineRuntimeTextures.cs" />
+    <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/UniversalAdditionalCameraData.deprecated.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Memory/Fixed2.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/Debug/DebugDisplaySettingsLighting.cs" />
     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@a201453ee0fb/Runtime/History/SingleHistoryBase.cs" />
@@ -814,10 +814,6 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/TextMateSharp/TextMateSharpPlastic.Grammars.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
       <HintPath>Library/PackageCache/com.unity.collections@8e325515cd5a/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
@@ -842,24 +838,12 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/log4netPlastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="System.IO.Hashing">
       <HintPath>Library/PackageCache/com.unity.collections@8e325515cd5a/Unity.Collections.Tests/System.IO.Hashing/System.IO.Hashing.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/unityplastic.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Cecil">

@@ -60,14 +60,14 @@
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/Commands/IgnoreTestCommand.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/TestRunner/Callbacks/PlayerQuitHandler.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRenderer.cs" />
-    <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/Filters/CategoryFilterExtended.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/AssemblyInfo.cs" />
+    <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/Filters/CategoryFilterExtended.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/UnityTestProtocol/TestFinishMessage.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/TestRunner/Callbacks/RemoteTestResultSender.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/Runner/PlaymodeWorkItemFactory.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyLoadProxy.cs" />
-    <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/Attributes/ParametrizedIgnoreAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs" />
+    <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/NUnitExtensions/Attributes/ParametrizedIgnoreAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/TestRunner/RuntimeTestRunnerFilter.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs" />
     <Compile Include="Library/PackageCache/com.unity.test-framework@9faaf09ec578/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRendererCallback.cs" />
