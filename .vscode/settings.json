@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Slendytubbies-Subjugated.slnx",
+    "dotnet.defaultSolution": "SlendytubbiesSubjugated.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }

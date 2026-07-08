@@ -79,8 +79,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Editing/TextArea.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/CreateWorkspace/PerformInitialCheckin.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/ParentWindow.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/UnityInternals/UnityEditor/EditorWindowInternal.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CloudDrive/Workspaces/Tree/CloudWorkspacesTreeView.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/UnityInternals/UnityEditor/EditorWindowInternal.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/DelayedActionByFramesRunner.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Settings/OpenUVCSProjectSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UseBuiltinDiffWindowPreference.cs" />
@@ -215,10 +215,10 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/PlasticDialog.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/Drawing/Shapes/Connections/ShapeConnectionBuilder.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/Drawing/Shapes/Colors/BrExLineDashPatterns.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Diff/UnityDiffTree.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/Menu/BranchExplorerViewLabelMenuOperations.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Inspector/Properties/SelectedRepObjectInfoData.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/LaunchDiffOperations.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Diff/UnityDiffTree.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/WebApi/CurrentUserAdminCheckResponse.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/Drawing/Shapes/Connections/Degrees.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Keyboard.cs" />
@@ -301,8 +301,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UVCSToolbar/PopupWindow/ToolbarMouseBoundary.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/SplitterSettings.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Editing/CaretNavigationCommandHandler.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Diff/DiffSelection.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Changesets/ChangesetsListHeaderState.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Diff/DiffSelection.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Gluon/UpdateReport/ErrorListViewItem.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/CreateWorkspace/Dialogs/RepositoryExplorerDialog.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Attributes/CreateAttributeView.cs" />
@@ -432,8 +432,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Document/TextSegment.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/AssetsUtils/Processor/UnityCloudProjectLinkMonitor.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/Drawing/Shapes/Painter2DExtensions.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/MeasureMaxWidth.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/_Deprecated/UI/CooldownWindowDelayer.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/MeasureMaxWidth.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/SelectedObjectDataUpdater.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Utils/FileReader.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UVCSToolbar/PopupWindow/PopupWindowDrawing.cs" />
@@ -486,8 +486,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/AttributeColor.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Diff/Asset/AssetContentControl.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Rendering/VisualLineTextSource.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Configuration/ChannelCertificateUiImpl.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Editing/IReadOnlySectionProvider.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Configuration/ChannelCertificateUiImpl.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BrowseRepository/BrowseRepositoryViewItem.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/Tree/TreeHeaderColumns.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Utils/RopeNode.cs" />
@@ -537,8 +537,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Platform/TextInputEventArgs.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Merge/Developer/ChangeTreeViewItem.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/UIElements/LoadingSpinner.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/Errors/ErrorsListHeaderState.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/ApplyShelveWithConflictsQuestionerBuilder.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/Errors/ErrorsListHeaderState.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/AssetOverlays/DrawHierarchyOverlay.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Locks/LocksSelector.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/BranchExplorer/Virtualization/SelftThrottlingWorker.cs" />
@@ -561,8 +561,8 @@
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Settings/DiffAndMergeOptionsFoldout.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Changesets/ChangesetExplorerView.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/AssetMenu/ProjectViewCloudDriveAssetMenu.cs" />
-    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UVCSToolbar/PopupWindow/Operations/ControlledPopupOperations.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UI/GetWindowIfOpened.cs" />
+    <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/UVCSToolbar/PopupWindow/Operations/ControlledPopupOperations.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/CodeEditor/Utils/NullSafeCollection.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/PendingChanges/ChangeCategoryTreeViewItem.cs" />
     <Compile Include="Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Editor/Views/Locks/LocksTab.cs" />

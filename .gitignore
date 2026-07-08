@@ -1,4 +1,5 @@
-/.vs
+/Assets/multidata
+/Assets/singledata
 /Library
 /Logs
-/obj
+/Packages

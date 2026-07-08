@@ -103,9 +103,9 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/PreviewTarget.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Descriptors/BlockFieldDescriptor.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Views/Slots/PropertyConnectionStateSlotControlView.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/Vector2MaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Processors/PropertyCollector.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/BitangentMaterialSlot.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/Vector2MaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Scene/CameraNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/ViewModels/BlackboardViewModel.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Util/AssertHelpers.cs" />
@@ -205,8 +205,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Legacy/Edge0.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/ViewModels/InspectorViewModel.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Manipulators/Scrollable.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Legacy/PBRMasterNode1.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Math/Round/RoundNode.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Legacy/PBRMasterNode1.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Enumerations/KeywordScope.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Processors/ShaderSpliceUtil.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/FunctionMultiInput.cs" />
@@ -263,8 +263,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/IGeneratesFunction.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Scene/SceneColorNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Views/Slots/MultiIntegerSlotControlView.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/Graph/INode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Controls/IntegerControl.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/Graph/INode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Util/UvChannel.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/IMayRequireCameraOpaqueTexture.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/CustomRenderTexture/CreateCustomRenderTextureShaderGraph.cs" />
@@ -307,15 +307,15 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/VFXTarget.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Util/StackPool.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Inspector/InspectorView.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Inspector/PropertyDrawers/DropdownPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/IMayRequireInstanceID.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Inspector/PropertyDrawers/DropdownPropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Artistic/Mask/ColorMaskNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/CustomRenderTexture/CustomTextureSlice.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Processors/GraphCompilationResult.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Math/Vector/RotateAboutAxisNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/IHasCustomDeprecationMessage.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/PropertyConnectionStateMaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Manipulators/Draggable.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/PropertyConnectionStateMaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Util/ShaderGraphRequirementsPerKeyword.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/Texture2DArrayShaderProperty.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Channel/CombineNode.cs" />
@@ -424,8 +424,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Procedural/Shape/RoundedRectangleNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/Canvas/CanvasSubTarget.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/CustomInterpolatorNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Blackboard/BlackboardUtils.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Enumerations/KeywordShaderStage.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Blackboard/BlackboardUtils.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Data/ConditionalField.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Enumerations/NormalDropOffSpace.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/DefaultVector2MaterialSlot.cs" />
@@ -459,8 +459,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Legacy/GraphData0.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Controls/ChannelEnumControl.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/IMayObsolete.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Controls/TextControl.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/UITK/IUISubTarget.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Controls/TextControl.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Enumerations/ShaderValueType.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/Texture3DInputMaterialSlot.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Math/Advanced/ModuloNode.cs" />
@@ -572,8 +572,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Texture/Texture3DAssetNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Contexts/TargetPropertyGUIContext.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Math/Trigonometry/ArccosineNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Attributes/BuiltinKeywordAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Colors/CustomColorData.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Attributes/BuiltinKeywordAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/EdgeConnectorListener.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/ContextData.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/GraphDataReadOnly.cs" />
@@ -599,8 +599,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Geometry/VertexIDNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Contexts/TargetSetupContext.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Texture/CalculateLevelOfDetailTexture2DNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Artistic/Filter/FadeTransitionNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/TargetResources/Fields.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Artistic/Filter/FadeTransitionNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Procedural/Shape/RectangleNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/ShaderInput.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Controls.cs" />
@@ -620,8 +620,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Basic/Vector1Node.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Util/Identifier.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Artistic/Normal/NormalFromTextureNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Utility/PreviewNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/GradientMaterialSlot.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Utility/PreviewNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Texture/SampleTexture2DLODNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Procedural/Noise/GradientNoiseNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/SamplerStateShaderProperty.cs" />
@@ -686,8 +686,8 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/BuiltIn/Editor/ShaderGraph/Targets/BuiltInCanvasSubTarget.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Interfaces/IMayRequireTransform.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Math/Vector/ReflectionNode.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/PropertyNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Legacy/SpriteUnlitMasterNode1.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/PropertyNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Channel/FlipNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Drawing/Inspector/PropertyDrawers/PositionNodePropertyDrawer.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Scene/ScreenNode.cs" />
@@ -705,9 +705,9 @@
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/BooleanShaderProperty.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Gradient/SampleGradientNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Generation/Targets/Fullscreen/FullscreenMetaData.cs" />
+    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Util/FunctionRegistry.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Input/Geometry/TangentVectorNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Graphs/TangentMaterialSlot.cs" />
-    <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Util/FunctionRegistry.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Math/Interpolation/InverseLerpNode.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Attributes/SGPropertyDrawerAttribute.cs" />
     <Compile Include="Library/PackageCache/com.unity.shadergraph@06d052f764e8/Editor/Data/Nodes/Channel/AppendVectorNode.cs" />
@@ -1468,6 +1468,10 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/TextMateSharp/TextMateSharpPlastic.Grammars.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.VisualScripting.YamlDotNet">
+      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
       <HintPath>Library/PackageCache/com.unity.collections@8e325515cd5a/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll</HintPath>
       <Private>False</Private>
@@ -1492,12 +1496,24 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/log4netPlastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.VisualScripting.IonicZip">
+      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="System.IO.Hashing">
       <HintPath>Library/PackageCache/com.unity.collections@8e325515cd5a/Unity.Collections.Tests/System.IO.Hashing/System.IO.Hashing.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="unityplastic">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e/Lib/Editor/unityplastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Mono.Cecil">
