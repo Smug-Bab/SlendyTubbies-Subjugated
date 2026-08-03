@@ -1,5 +1,5 @@
-/Assets/multidata
-/Assets/singledata
-/Library
-/Logs
-/Packages
+/*
+!/Assets/**
+!/Packages/**
+!/ProjectSettings/**
+!/UserPreferences/**
