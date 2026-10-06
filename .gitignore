@@ -1,7 +1,4 @@
-# Ignore everything in the root
-*
-
-# But do not ignore these specific folders
-!/Assets/
-!/ProjectSettings/
-!/UserSettings/
+/*
+!/Assets/**
+!/ProjectSettings/**
+!/UserSettings/**
